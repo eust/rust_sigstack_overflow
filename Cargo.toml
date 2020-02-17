@@ -1,0 +1,8 @@
+[package]
+name = "rust_sigstack_overflow"
+version = "0.1.0"
+authors = ["Maciej Kot <maciej.kot@dfinity.org>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2.65"
